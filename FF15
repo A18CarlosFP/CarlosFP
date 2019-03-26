@@ -5,6 +5,7 @@ public class GithHub {
         
         String nombre;
         System.out.println("Hola soy Carlitos");
+        System.out.println("Ch3pu2")
         System.out.println("¿Y tu eres?");
         nombre=teclado.next();
         
